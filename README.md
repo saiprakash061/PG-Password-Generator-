@@ -91,5 +91,3 @@ For inquiries or contributions, please feel free to reach out.
 This project is open-source and available under the MIT License.  
 
 --- 
-
-Let me know if you'd like to add or modify any sections! 😊
